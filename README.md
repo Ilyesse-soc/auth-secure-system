@@ -1,3 +1,10 @@
+
+✨ Codé avec ❤️ par Ilyesse El Adaoui
+
+
+
+
+
 # 🔐 Système d'Authentification Sécurisé
 
 Une API robuste d’authentification conçue avec Node.js, Express et MongoDB. Ce projet met en œuvre les meilleures pratiques de sécurité : gestion des rôles (admin, modérateur, utilisateur), tokens JWT, refresh tokens, mot de passe oublié, validation d’email, et plus encore.
